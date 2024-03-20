@@ -1,1 +1,1 @@
-# prueba
+# First project algorithmic trading
